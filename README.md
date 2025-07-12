@@ -2,8 +2,6 @@
 
 A responsive and interactive **Employee Directory Web Interface** developed using **HTML, CSS, JavaScript**, and **Freemarker templates**. This project enables adding, editing, deleting, searching, filtering, and sorting employee records with smooth UI functionality—all using client-side JavaScript and simulated data.
 
----
-
 ## 🚀 Features
 
 - 🔍 Search by name or email
@@ -15,8 +13,6 @@ A responsive and interactive **Employee Directory Web Interface** developed usin
 - 🎨 Modal-based form UI
 - 💻 Responsive layout for all screen sizes
 - 🧾 Clean code with modular file structure
-
----
 
 ## 📁 Folder Structure
 
@@ -33,9 +29,6 @@ employee-directory/
 │ └── filters.js # Filtering, sorting, and search
 ├── README.md # Project documentation
 
-
----
-
 ## 📦 Technologies Used
 
 - ✅ HTML5, CSS3, JavaScript (Vanilla)
@@ -44,8 +37,6 @@ employee-directory/
 - ✅ Modular JS structure
 - ✅ Simulated backend using JavaScript arrays or `<#assign>` in Freemarker
 
----
-
 ## 📸 Screenshots
 
 > Replace the paths below with actual screenshots in your repo (e.g., `/assets/dashboard.png`)
@@ -53,8 +44,6 @@ employee-directory/
 | 🧭 Dashboard | 📝 Add/Edit Modal |
 |-------------|-------------------|
 | ![Dashboard](assets/dashboard.png) | ![Modal](assets/modal.png) |
-
----
 
 ## 🧪 Running Locally
 
@@ -67,7 +56,6 @@ src/static/css/style.css
 
 
 2. Run a local static server:
-```bash
 cd src/templates
 npx serve .
 # OR
